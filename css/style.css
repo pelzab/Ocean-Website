@@ -4,6 +4,7 @@
   position: fixed;
   min-width: 100%;
   min-height: 99%;
+  height: 552px;
 }
 .content {
   position: fixed;
@@ -12,7 +13,7 @@
   background: rgba(0,0,0,0.2);
   color: #f1f1f1;
   width: 100%;
-  padding: 250px;
+  padding: 155px;
   font-family:'Abril Fatface'; cursive;
 }
 
