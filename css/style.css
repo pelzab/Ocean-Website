@@ -4,6 +4,7 @@
   position: fixed;
   min-width: 100%;
   min-height: 100%;
+  width: 99%;
 }
 .content {
   position: fixed;
@@ -24,6 +25,5 @@ p {
   font-size: 30px;
 }
 .body {
-    margin: 40px 40px 40px;
     border: 1px solid white;
 }
