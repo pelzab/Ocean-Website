@@ -3,7 +3,7 @@
 #myVideo {
   position: fixed;
   min-width: 100%;
-  min-height: 99%;
+  min-height: 50%;
   height: 552px;
 }
 .content {
