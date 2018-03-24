@@ -20,9 +20,13 @@ h1 {
   font-family: 'Abril Fatface', cursive;
 }
 h2 {
-  font-size: 24px;
+  font-size: 20px;
   font-family: 'Abril Fatface';
+}
 
+h3 {
+  font-size: 30px;
+  font-family: 'Abril Fatface';
 }
 p {
   font-size: 20px;
@@ -53,6 +57,7 @@ p {
 #main {
 margin: 20px 20px 20px 20px;
 padding: 50px 50px 50px 50px;
+align-content: center;
 }
 
 #main p {
@@ -63,13 +68,17 @@ padding: 50px 50px 50px 50px;
  #main img {
   max-height: 300px;
   max-width: 300px;
+  padding: 20px 20px 0px 0px;
+}
+
+#submit {
+  padding: 20px 20px 0 0;
 }
 
 #social-buttons {
   position: relative;
   margin-left: 0 auto;
   padding: 5px 5px 5px 5px;
-  align: center;
 }
 .footer {
   position: static
