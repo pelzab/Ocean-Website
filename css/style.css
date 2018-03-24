@@ -20,9 +20,9 @@ h1 {
   font-family: 'Abril Fatface', cursive;
 }
 h2 {
-  font-size: 20px;
+  font-size: 24px;
   font-family: 'Abril Fatface';
-  text-align: center;
+
 }
 p {
   font-size: 20px;
@@ -47,11 +47,22 @@ p {
   color: rgba(255,255,255,255);
 }
 
- #main img {
-  max-height: 200px;
-  max-width: 200px;
+#main p {
+  padding: 20px 20px 0 0;
+  max-width: 300px;
 }
 
-.getinformed {
-text-align: left;
+ #main img {
+  max-height: 300px;
+  max-width: 300px;
+}
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
