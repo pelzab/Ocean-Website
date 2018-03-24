@@ -45,3 +45,7 @@ p {
   text-align: center;
   color: rgba(255,255,255,255);
 }
+
+#getinformed {
+  background-image: url("images.pollution.jpg");
+}
