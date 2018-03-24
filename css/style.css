@@ -27,6 +27,8 @@ h2 {
 p {
   font-size: 20px;
 }
+
+}
 .body {
     border: 1px solid white;
     margin-top: 30px;
@@ -35,6 +37,7 @@ p {
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
 }
+
 .welcome {
   margin: 10px,10px,10px,10px;
   padding-top: 90px;
@@ -47,6 +50,11 @@ p {
   color: rgba(255,255,255,255);
 }
 
+#main {
+margin: 20px 20px 20px 20px;
+padding: 50px 50px 50px 50px;
+}
+
 #main p {
   padding: 20px 20px 0 0;
   max-width: 300px;
@@ -57,8 +65,14 @@ p {
   max-width: 300px;
 }
 
+#social-buttons {
+  position: relative;
+  margin-left: 0 auto;
+  padding: 5px 5px 5px 5px;
+  align: center;
+}
 .footer {
-  position: fixed;
+  position: static
   right: 0;
   bottom: 0;
   left: 0;
