@@ -34,12 +34,14 @@ p {
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
 }
-.welcome{
+.welcome {
+  margin: 10px,10px,10px,10px;
   padding-top: 90px;
   min-height: 300px;
   margin-bottom: 0;
-  background-image:url("turtle.jpg");
+  background-image: url("turtle.jpg");
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: relative;
   text-align: center;
+  color: rgba(255,255,255,255);
 }
