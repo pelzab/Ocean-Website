@@ -41,10 +41,7 @@ p {
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> Sara
 .welcome {
   margin: 10px,10px,10px,10px;
   padding-top: 90px;
@@ -53,8 +50,6 @@ p {
   background-image: url("turtle.jpg");
   background-size: cover;
   background-attachment: relative;
-<<<<<<< HEAD
-=======
   text-align: center;
   color: rgba(255,255,255,255);
 }
@@ -92,7 +87,6 @@ align-content: center;
   left: 0;
   padding: 1rem;
   background-color: #efefef;
->>>>>>> Sara
   text-align: center;
   color: rgba(255,255,255,255);
 }
