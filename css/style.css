@@ -23,8 +23,15 @@ h2 {
   font-size: 20px;
   font-family: 'Abril Fatface';
 }
-p {
+
+h3 {
   font-size: 30px;
+  font-family: 'Abril Fatface';
+}
+p {
+  font-size: 20px;
+}
+
 }
 .body {
     border: 1px solid white;
@@ -34,6 +41,10 @@ p {
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> Sara
 .welcome {
   margin: 10px,10px,10px,10px;
   padding-top: 90px;
@@ -42,6 +53,46 @@ p {
   background-image: url("turtle.jpg");
   background-size: cover;
   background-attachment: relative;
+<<<<<<< HEAD
+=======
+  text-align: center;
+  color: rgba(255,255,255,255);
+}
+
+#main {
+margin: 20px 20px 20px 20px;
+padding: 50px 50px 50px 50px;
+align-content: center;
+}
+
+#main p {
+  padding: 20px 20px 0 0;
+  max-width: 300px;
+}
+
+ #main img {
+  max-height: 300px;
+  max-width: 300px;
+  padding: 20px 20px 0px 0px;
+}
+
+#submit {
+  padding: 20px 20px 0 0;
+}
+
+#social-buttons {
+  position: relative;
+  margin-left: 0 auto;
+  padding: 5px 5px 5px 5px;
+}
+.footer {
+  position: static
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+>>>>>>> Sara
   text-align: center;
   color: rgba(255,255,255,255);
 }
